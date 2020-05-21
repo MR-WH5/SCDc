@@ -1,3 +1,5 @@
 # SCDc
+Script Deface Creator By Sadewa
 
-Script Deface Creator
+# Run Script
+python CreateSC.py
