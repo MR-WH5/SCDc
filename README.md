@@ -9,8 +9,10 @@ Script V1 :
 
 Script V2 :
 <p align="center">
-  <img src="SS/v2.jpg">  
+  <img src="SS/v2.jpg" width="400" heigth="150">  
 </p>
 
 # Run Script
+```sh
 python CreateSC.py
+ ```
